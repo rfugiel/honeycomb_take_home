@@ -1,0 +1,36 @@
+mongo/
+
+# Node.js files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# macOS
+.DS_Store
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+desktop.ini
